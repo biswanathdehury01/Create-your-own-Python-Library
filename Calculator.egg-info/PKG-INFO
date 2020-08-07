@@ -1,0 +1,24 @@
+Metadata-Version: 1.1
+Name: Calculator
+Version: 0.0.1
+Summary: Short Description, A very basic calulator
+Home-page: UNKNOWN
+Author: Open Source Contribution
+Author-email: bibhurox@gmail.com
+License: UNKNOWN
+Description: This is a simple calculator that takes 2 inputs as either add, sub, mul or div them.
+        
+        CHANGE LOG
+        ==========
+        
+        0.0.1 (8/7/2020)
+        -----------------
+        - First Release
+        
+Keywords: calculator
+Platform: UNKNOWN
+Classifier: Developoment Status :: 5 - Production / Stable
+Classifier: Intended Audiance :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
